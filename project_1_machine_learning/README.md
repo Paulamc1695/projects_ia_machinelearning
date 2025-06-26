@@ -3,6 +3,10 @@
 Bienvenido/a al proyecto de Machine Learning con Python. 
 Este documento detalla las fases del proyecto y sus resultados.
 
+<p align="center">
+  <img src="https://github.com/Paulamc1695/projects_ia_machinelearning/blob/main/project_1_machine_learning/machine-learning.png" alt="Logo Google Ads" width="120"/>
+</p>
+
 ---
 
 ## **📌 Tabla de Contenidos**
