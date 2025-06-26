@@ -1,5 +1,4 @@
-## **REPOSITORIO DE PROYECTOS DE**##<BR>
-## **INTELIGENCIA ARTIFICIAL Y MACHINE LEARNING**##
+### **REPOSITORIO DE PROYECTOS DE INTELIGENCIA ARTIFICIAL Y MACHINE LEARNING** ###
 
 **✨ ¡Bienvenido/a a este repositorio! ✨**
 
@@ -15,13 +14,13 @@ Aquí encontrarás un conjunto de proyectos centrados en la Inteligencia Artific
 
 ## 🧰 Herramientas utilizadas
 
-- Python con las correspondientes librerías: Pandas, Numpy, Seaborn, Matplotlib, Sklearn... Entre otras
+- Python con las correspondientes librerías: Pandas, Numpy, Seaborn, Matplotlib, Sklearn... Entre otras.
 
 - ChatGPT
 
 - Claude
 
-- Excel / CSV / SQL (según corresponda)
+- Excel / CSV / SQL (según corresponda).
 
 ---
 
