@@ -8,7 +8,7 @@ Aquí encontrarás un conjunto de proyectos centrados en la Inteligencia Artific
 
 ## 🗂️ Repositorio de proyectos
 
-- **Proyecto 1.** Machine Learning
+- **Proyecto 1.** Machine Learning con Python
 
 ---
 
